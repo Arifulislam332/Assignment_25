@@ -1,6 +1,6 @@
 // intersection observer-->API
 
-const targetEl = document.querySelector(".target2");
+/* const targetEl = document.querySelector(".target2");
 
 const option = {
   root: null,
@@ -19,7 +19,7 @@ const callBackFn = (entries) => {
 
 const observerOption = new IntersectionObserver(callBackFn, option);
 
-observerOption.observe(targetEl);
+observerOption.observe(targetEl); */
 
 
 const getTarget = document.querySelector('.target');
